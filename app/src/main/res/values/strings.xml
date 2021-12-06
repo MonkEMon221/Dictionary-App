@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dictionary App</string>
+    <string name="edit_text_string">Search Your Word</string>
+    <string name="button_text">find</string>
+    <string name="str_click_to_go_back">Click To Go Back</string>
+</resources>
